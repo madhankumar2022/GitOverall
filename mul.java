@@ -1,0 +1,4 @@
+class mul
+{
+a*b;
+}
