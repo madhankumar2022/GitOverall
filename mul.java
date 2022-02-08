@@ -1,4 +1,7 @@
 class mul
+
 {
-a*b;
+
+a*b
+
 }
