@@ -1,4 +1,4 @@
-class add
+class sub
 {
-a+b;
+a-b;
 }
